@@ -1,16 +1,26 @@
-## Hi there 👋
+## 👋 Olá, eu sou Eduardo Andrade!
 
-<!--
-**eandradesimbi/eandradesimbi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou Desenvolvedor de Software tem 10 anos. Este GitHub é onde compartilho meus projetos, experimentos e contribuições para a comunidade de desenvolvedores.
 
-Here are some ideas to get you started:
+## 🔧 Stack
+- **Linguagens**: JavaScript, Python, PHP, SQL
+- **Frameworks**: React, Laravel, Bootstrap
+- **Ferramentas**: Docker, Git, VS Code
+- **Bancos de Dados**: MySQL, PostgreSQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Projetos
+- Em breve
+
+## 🌱 Aprendizado & Objetivos
+- Aprendendo atualmente: TypeScript, Kubernetes
+- Objetivos futuros: Construir aplicações mais escaláveis.
+
+## 📫 Entre em Contato
+- LinkedIn: [Eduardo Andrade]([https://linkedin.com/in/seuperfil](https://www.linkedin.com/in/eduardo-andrade-137408166/))
+- E-Mail: edu.andrade1996@gmail.com
+
+## 🎸 Curiosidade
+Quando não estou codificando, você pode me encontrar tocando como dj ou explorando as últimas novidades da cena musical alternativa.
+
+## 📊 Estatísticas do GitHub
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=eandradesimbi&show_icons=true&theme=radical)
