@@ -12,7 +12,7 @@ Sou Desenvolvedor de Software tem 10 anos. Este GitHub é onde compartilho meus 
 - Atualmente atuo como Gerente de Tecnologia na [Simbi](https://github.com/simbiosesocial)
 
 ## 🌱 Aprendizado & Objetivos
-- Aprendendo atualmente: TypeScript, Kubernetes
+- Aprendendo atualmente: Next.js, Nest.js, GO, Websockets, Kubernetes
 - Objetivos futuros: Construir aplicações mais escaláveis.
 
 ## 📫 Entre em Contato
